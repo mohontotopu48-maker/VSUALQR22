@@ -1,0 +1,10 @@
+{
+  "name": "VSUAL Networking",
+  "description": "Instant Authority. Capture. Connect. Automate. AI-powered networking for promotional marketing professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
